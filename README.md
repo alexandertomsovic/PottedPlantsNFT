@@ -33,5 +33,5 @@ The [**Potted Plants NFT Project**](https://opensea.io/pottedplantsnft?tab=colle
 </picture>
 </a>
 
-![](https://img.shields.io/static/v1?label=Opensea+Servers&logo=opensea&style=flat-square&message=Potted+Plants+NFT&color=blue)
-
+![](https://img.shields.io/static/v1?label=Opensea&logo=opensea&style=flat-square&message=Potted+Plants+NFT&color=blue)
+![](https://img.shields.io/static/v1?label=Current+Total+Minted&&style=flat-square&message=20&color=purple)
