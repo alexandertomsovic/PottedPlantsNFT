@@ -16,9 +16,9 @@ The [**Potted Plants NFT Project**](https://opensea.io/pottedplantsnft?tab=colle
 - Next wave: UNKNOWN
 
 ## Links
-- [**Discord**](https://discord.gg/Utn8nRaM)
-- [**Instagram**](https://instagram.com/pottedplantsnft)
-- [**Opensea**](https://opensea.io/pottedplantsnft?tab=collected)
+- Join our official [**Discord**](https://discord.gg/Utn8nRaM) server.
+- Follow us on [**Instagram**](https://instagram.com/pottedplantsnft) for updates.
+- Mint a Potted Plant NFT via [**Opensea**](https://opensea.io/pottedplantsnft?tab=collected).
 
 ## Creator 
 
